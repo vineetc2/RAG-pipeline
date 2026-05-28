@@ -1,2 +1,2 @@
-RAG Implementation
-Simple Question Answer using GROQ
+RAG Implementation and Simple Question Answer using GROQ
+
