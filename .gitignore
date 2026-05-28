@@ -1,0 +1,7 @@
+#Files
+*.pdf
+#Virtual Environment
+ml_env/
+
+# Key
+.env
